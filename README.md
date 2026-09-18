@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Hash Table
 |  |
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

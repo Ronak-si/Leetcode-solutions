@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

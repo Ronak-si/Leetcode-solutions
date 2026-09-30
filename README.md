@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0502-ipo) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1096-brace-expansion-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

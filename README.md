@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

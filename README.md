@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0856-score-of-parentheses) |

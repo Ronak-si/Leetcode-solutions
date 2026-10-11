@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -244,9 +248,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

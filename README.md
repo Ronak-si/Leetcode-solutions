@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0790-domino-and-tromino-tiling](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronak-si/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

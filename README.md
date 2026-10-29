@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -334,4 +336,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

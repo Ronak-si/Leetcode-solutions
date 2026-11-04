@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |

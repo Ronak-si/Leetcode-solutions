@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronak-si/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ronak-si/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->

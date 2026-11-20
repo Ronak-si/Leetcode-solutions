@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1096-brace-expansion-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -274,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -289,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
@@ -473,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

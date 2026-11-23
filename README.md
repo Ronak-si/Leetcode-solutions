@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0500-keyboard-row](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0502-ipo) |
 | [0740-delete-and-earn](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0835-image-overlap) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0740-delete-and-earn](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1096-brace-expansion-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

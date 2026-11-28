@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/Ronak-si/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -533,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Ronak-si/Leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ronak-si/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
